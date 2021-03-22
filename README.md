@@ -9,6 +9,3 @@ i use a cloning statement if the repositorie do not exist localy
    - to use this script you need to change the urls of the two git repositories
    - make it executable `chmod -x synchronize_two_git_repo.sh`
    - execute the script `./synchronize_two_git_repo.sh`
-
-
-@kaa-serpent
